@@ -66,10 +66,10 @@ This system can be used in:
 ---
 
 ### 
-19CSE305 Embedded Systems 
-Department of Computer Science and Engineering
-Amrita School of Computing
-Amrita Vishwa Vidyapeetham, Coimbatore, India  
+<h6>19CSE305 Embedded Systems</h6>  
+<h6>Department of Computer Science and Engineering</h6>  
+<h6>Amrita School of Computing</h6>  
+<h6>Amrita Vishwa Vidyapeetham, Coimbatore, India</h6>  
 
 ---
 
