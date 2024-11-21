@@ -64,11 +64,11 @@ This system can be used in:
 - **B Hemanth   - CB.EN.U4CSE22464**
 
 ---
-   19CSE305 Embedded Systems
-   Department of Computer Science and Engineering    
-	Amrita School of Computing, 
-	Amrita Vishwa Vidyapeetham, Coimbatore, India.
-
+# **19CSE305 Embedded Systems**  
+**Department of Computer Science and Engineering**  
+**Amrita School of Computing**  
+**Amrita Vishwa Vidyapeetham, Coimbatore, India**  
 ---
+
   
 
