@@ -1,5 +1,5 @@
 # **Group-7**  
-**Embedded Systems Case Study**
+**19CSE305 Embedded Systems Case Study**
 
 ## **Case Study: Guided Vision: An Object Detection Guide for the Blind**
 
@@ -18,7 +18,7 @@ The primary objective of this project is to demonstrate the integration of an ul
 ### **System Components**  
 The system comprises the following components:  
 
-1. **Ultrasonic Sensor (HC-SR04 or equivalent):**  
+1. **Ultrasonic Sensor (HC-SR04):**  
    - Emits ultrasonic waves and measures the time taken for the echo to return.  
    - Outputs the calculated distance to the microcontroller.  
 
@@ -41,7 +41,7 @@ The system comprises the following components:
    - Ensure proper power supply to the components.
 
 2. **Programming:**
-   - Use STM32CubeIDE to write and upload the code to the microcontroller.
+   - Use Keilµ5 Vision to write and upload the code to the microcontroller using ST-Link.
    - Configure GPIO pins and timers for sensor and buzzer operations.
 
 3. **Testing:**
@@ -58,19 +58,17 @@ This system can be used in:
 ---
 
 ### **Contributors**  
-- **Name 1**  
-- **Name 2**  
-- **Name 3**  
-- **Name 4**
+- **Poornima A  - CB.EN.U4CSE22402**  
+- **Sharmila M  - CB.EN.U4CSE22423**  
+- **P Ramya Sri - CB.EN.U4CSE22429**  
+- **B Hemanth   - CB.EN.U4CSE22464**
 
 ---
-
-### **License**  
-This project is licensed under the [MIT License](LICENSE).
+   19CSE305 Embedded Systems
+   Department of Computer Science and Engineering    
+	Amrita School of Computing, 
+	Amrita Vishwa Vidyapeetham, Coimbatore, India.
 
 ---
-
-### **Contact**  
-For more information, contact:  
-**Email:** yourname@example.com  
+  
 
